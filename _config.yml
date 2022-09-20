@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 logo: /assets/leo.jpg
 title: Leo Fang
-description: Homepage
+# description: Homepage
 show_downloads: false
 remote_theme: "godalming123/minimal"
 color-scheme: ["dark"]
