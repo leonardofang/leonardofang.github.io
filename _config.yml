@@ -3,6 +3,7 @@ logo: /assets/leo.jpg
 title: Leo Fang
 # description: Homepage
 show_downloads: false
+is_user_page: false
 remote_theme: "godalming123/minimal"
 color-scheme: ["dark"]
 plugins:
