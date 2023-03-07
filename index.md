@@ -21,7 +21,7 @@
 #### :page_facing_up:	 <u>Le Fang</u>, Yu Wu, Chuan Wu, Yizhou Yu, A Nonintrusive Elderly Home Monitoring System, IEEE Internet of Things Journal, vol. 8, no. 4, pp. 2603-2614,15 Feb., 2021. 
 [DOI Access](https://ieeexplore.ieee.org/document/9177049) (IF: 10.238, JCR: Q1)
 
-#### [M.Phil Thesis:](http://hdl.handle.net/10722/310289) Privacy-preserving recommender system with VAEs : optimization, privacy, and application
+#### [M.Phil Thesis:](http://hdl.handle.net/10722/310289) Privacy-preserving recommender system with VAEs : Optimization, Privacy, and Application
 
 
 ## Teaching Duties:
