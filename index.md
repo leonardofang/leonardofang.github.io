@@ -1,8 +1,12 @@
-#### Hello, I am Le (Leo) Fang, an M.Phil. graduate in Computer Science from [The University of Hong Kong (HKU)](https://www.hku.hk/), supervised by [Prof. Chuan Wu](https://i.cs.hku.hk/~cwu/index.html). Before that, I obtained M.Eng. in Information Engineering from [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/), supervised by [Prof. Kejie Huang](https://person.zju.edu.cn/en/huangkejie). Now I am searching for Ph.D. opportunities in  AI, ML, Data Mining, IoT for Healthcare and other related fields around the WORLD! I would be gratefully passionate to collaborate with researchers in diverse advancing computer technologies. Please kindly refer to my [CV](https://drive.google.com/file/d/1pHbk76sNqXM0_bdypNRC_9PlODuZrtaM/view?usp=sharing) or contact me through e-mail (lefang@connect.hku.hk). 
+#### Hello, I am Le (Leo) Fang, a 2021 M.Phil. graduate in Computer Science from [The University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Prof. Chuan Wu](https://i.cs.hku.hk/~cwu/index.html). Prior to that, I received my M.Eng. in Information Engineering from [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/) in 2019, supervised by [Prof. Kejie Huang](https://person.zju.edu.cn/en/huangkejie). My research interests include Artificial Intelligence (AI), Machine Learning (ML), Data Mining, and IoT for Healthcare, among other related fields. I am eager to collaborate with researchers who are passionate about advancing computer technologies for practical applications.
+
+#### :email: lefang@connect.hku.hk
+#### :scroll:	[Curriculum Vitae](https://drive.google.com/file/d/1ecQ5bYDulEMCxVWKoVcQsc1yqgWMkddW/view?usp=sharing)
 
 ## My current research TOPICS span as follows:
 #### - AI, Data Science for Healthcare
 #### - IoT for Smart Home
+
 
 ## My Projects:
 #### - Emotional Gesture Sensing (Ongoing :fire:)
