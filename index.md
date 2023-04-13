@@ -16,6 +16,8 @@
 
 ## Publications:
 ### My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en) and My [Orcid](https://orcid.org/0000-0003-1860-4008)
+#### :page_facing_up:	 <u>Le Fang</u>, Chuan Wu, HES: Edge Sampling for Heterogeneous Graphs, IEEE/INNS International Joint Conference on Neural Networks (IJCNN 2023), 18-23 June, 2023.
+
 #### :page_facing_up:	 <u>Le Fang</u>, Bingqian Du, Chuan Wu, Differentially Private Recommender System with Variational Autoencoders, Elsevier Knowledge-Based Systems Journal, Volume 250, 109044, 17 Aug., 2022. 
 [DOI Access](https://doi.org/10.1016/j.knosys.2022.109044) (IF: 8.139, JCR: Q1)
 
