@@ -1,7 +1,8 @@
-#### Hello, I am Le (Leo) Fang, a 2021 M.Phil. graduate in Computer Science from [The University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Prof. Chuan Wu](https://i.cs.hku.hk/~cwu/index.html). Prior to that, I received my M.Eng. in Information Engineering from [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/) in 2019, supervised by [Prof. Kejie Huang](https://person.zju.edu.cn/en/huangkejie). My research interests include Artificial Intelligence (AI), Machine Learning (ML), Data Mining, and IoT for Healthcare, among other related fields. I am eager to collaborate with researchers who are passionate about advancing computer technologies for practical applications.
+<!--#### Hello, I am Le (Leo) Fang, a 2021 M.Phil. graduate in Computer Science from [The University of Hong Kong (HKU)](https://www.hku.hk/), under the supervision of [Prof. Chuan Wu](https://i.cs.hku.hk/~cwu/index.html). Prior to that, I received my M.Eng. in Information Engineering from [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/) in 2019, supervised by [Prof. Kejie Huang](https://person.zju.edu.cn/en/huangkejie). My research interests include Artificial Intelligence (AI), Machine Learning (ML), Data Mining, and IoT for Healthcare, among other related fields. I am eager to collaborate with researchers who are passionate about advancing computer technologies for practical applications.
 
 #### :email:  [Le Fang](mailto:lefang@connect.hku.hk?subject=Contact%20From%20[Github])
 #### :scroll:	 [Curriculum Vitae](https://drive.google.com/file/d/1ecQ5bYDulEMCxVWKoVcQsc1yqgWMkddW/view?usp=sharing)
+-->
 
 ## My current research TOPICS span as follows:
 #### - AI, Data Science for Healthcare
