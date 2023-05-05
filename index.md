@@ -21,7 +21,7 @@
 ## Publications:
 ### My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en) and My [ORCiD](https://orcid.org/0000-0003-1860-4008)
 
-#### :page_facing_up:	 <u>Le Fang</u>, Sark Pangrui Xing, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, EmoSense: Revealing True Emotions Through Micro-Gestures, Wiley Advanced Intelligent Systems Journal, 2023 (IF: 7.298, JCR: Q1)
+#### :page_facing_up:	 <u>Le Fang</u>, Sark Pangrui Xing, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, EmoSense: Revealing True Emotions Through Micro-Gestures, Wiley Advanced Intelligent Systems Journal, 2023 ([Accepted](https://onlinelibrary.wiley.com/journal/26404567), IF: 7.298, JCR: Q1)
 
 #### :page_facing_up:	 <u>Le Fang</u>, Chuan Wu, HES: Edge Sampling for Heterogeneous Graphs, IEEE/INNS International Joint Conference on Neural Networks (IJCNN 2023), Queensland, Australia, 18-23 June, 2023.
 
