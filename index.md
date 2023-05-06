@@ -48,14 +48,20 @@
 ## Education:
 <div style="display: flex; align-items: center; space-between;">
   <img src="assets/hku.jpg" alt="HKU" style="width: 75px; height: 90px; margin-right: 10px;">
-  *The University of Hong Kong* 
-  *Master of Philosophy: Sep 2019 - Oct 2021*
+  <span>
+   HKU <br>
+   Master of Philosophy: Sep 2019 - Oct 2021
+  </span>
   <img src="assets/nus.jpg" alt="NUS" style="width: 75px; height: 90px; margin-right: 10px;">
-  *National University of Singapore*
-  *Visiting Scholar (Final): Nov 2018 - May 2019*
+  <span>
+   NUS <br>
+   Visiting Scholar (Final): Nov 2018 - May 2019
+  </span>
 </div>
 <div style="display: flex; align-items: center;">
   <img src="assets/zju.jpg" alt="ZJU" style="width: 75px; height: 75px; margin-right: 10px;">
-  *Zhejiang University*
-  *Bachelor of Engineering: Sep 2015 - June 2019*
+  <span>
+   ZJU <br>
+   Bachelor of Engineering: Sep 2015 - June 2019
+  </span>
 </div>
