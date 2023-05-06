@@ -46,7 +46,7 @@
 
 <hr>
 ## Education:
-<div style="display: flex; align-items: space-between;">
+<div style="display: flex; align-items: center; space-between;">
   <img src="assets/hku.jpg" alt="HKU" style="width: 75px; height: 90px; margin-right: 10px;">
   Master of Philosophy: Sep 2019 - Oct 2021
   <img src="assets/nus.jpg" alt="NUS" style="width: 75px; height: 90px; margin-right: 10px;">
