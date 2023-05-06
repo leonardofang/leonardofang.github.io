@@ -46,6 +46,15 @@
 
 <hr>
 ## Education:
-![HKU](assets/hku.jpg) Master of Philosophy: Sep 2019 - Oct 2021
-![NUS](assets/nus.jpg) Visiting Scholar (Final): Nov 2018 - May 2019
-![ZJU](assets/zju.jpg) Bacholor of Engineering: Sep 2015 - June 2019
+<div style="display: flex; align-items: center;">
+  <img src="assets/hku.jpg" alt="HKU" style="width: 200px; height: 150px; margin-right: 10px;">
+  Master of Philosophy: Sep 2019 - Oct 2021
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="assets/nus.jpg" alt="NUS" style="width: 200px; height: 150px; margin-right: 10px;">
+  Visiting Scholar (Final): Nov 2018 - May 2019
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="assets/zju.jpg" alt="ZJU" style="width: 200px; height: 150px; margin-right: 10px;">
+  Bachelor of Engineering: Sep 2015 - June 2019
+</div>
