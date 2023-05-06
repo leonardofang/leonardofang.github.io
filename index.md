@@ -4,12 +4,12 @@
 #### :scroll:	 [Curriculum Vitae](https://drive.google.com/file/d/1ecQ5bYDulEMCxVWKoVcQsc1yqgWMkddW/view?usp=sharing)
 
 <hr>
-## My current research TOPICS span as follows:
+## Research Topics:
 #### - AI, Data Science for Healthcare
 #### - IoT for Smart Home
 
 <hr>
-## My Projects:
+## Projects:
 #### - Emotional Gesture Sensing (Ongoing :fire:)
 ##### Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.
 #### - Elderly Gait-Balance Monitoring System
