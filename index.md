@@ -43,3 +43,12 @@
 #### I helped students to solve some networking questions from assignments and projects. Furthermore, I joined the assignment/project grading work.
 #### :memo: Autumn 2019 - Spring 2019: COMP1117  Computer programming (Python)
 #### I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.
+
+<hr>
+## Education:
+![HKU](assets/hku.jpg)
+*Master of Philosophy: Sep 2019 - Oct 2021*
+![NUS](assets/nus.jpg)
+*Visiting Scholar (Final): Nov 2018 - May 2019*
+![ZJU](assets/zju.jpg)
+*Bacholor of Engineering: Sep 2015 - June 2019*
