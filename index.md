@@ -47,14 +47,14 @@
 <hr>
 ## Education:
 <div style="display: flex; align-items: center; space-between;">
-  <a href="https://hku.hk" target="_blank">
+  <a href="https://hku.hk" target="_blank" style="display: inline-block;">
     <img src="assets/hku.jpg" alt="HKU" style="width: 75px; height: 90px; margin-right: 10px;">
   </a>
   <span>
     HKU <br>
     Master of Philosophy: Sep 2019 - Oct 2021
   </span>
-  <a href="https://nus.edu.sg" target="_blank">
+  <a href="https://nus.edu.sg" target="_blank" style="display: inline-block;">
     <img src="assets/nus.jpg" alt="NUS" style="width: 75px; height: 90px; margin-right: 10px;">
   </a>
   <span>
@@ -63,7 +63,7 @@
   </span>
 </div>
 <div style="display: flex; align-items: center;">
-  <a href="https://www.zju.edu.cn/english/" target="_blank">
+  <a href="https://zju.edu.cn" target="_blank" style="display: inline-block;">
     <img src="assets/zju.jpg" alt="ZJU" style="width: 75px; height: 75px; margin-right: 10px;">
   </a>
   <span>
