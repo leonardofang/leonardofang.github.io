@@ -3,11 +3,12 @@
 #### :email:  [Le Fang](mailto:lefang@connect.hku.hk?subject=Contact%20From%20[Github])
 #### :scroll:	 [Curriculum Vitae](https://drive.google.com/file/d/1ecQ5bYDulEMCxVWKoVcQsc1yqgWMkddW/view?usp=sharing)
 
+<hr>
 ## My current research TOPICS span as follows:
 #### - AI, Data Science for Healthcare
 #### - IoT for Smart Home
 
-
+<hr>
 ## My Projects:
 #### - Emotional Gesture Sensing (Ongoing :fire:)
 ##### Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.
@@ -17,7 +18,7 @@
 #### - A Nonintrusive Elderly Home Monitoring System
 #### - Raw Food Recognition and Nutrition Analysis
 
-
+<hr>
 ## Publications:
 ### My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en) and My [ORCiD](https://orcid.org/0000-0003-1860-4008)
 
@@ -34,7 +35,7 @@
 
 #### [M.Phil Thesis:](http://hdl.handle.net/10722/310289) Privacy-preserving recommender system with VAEs : Optimization, Privacy, and Application
 
-
+<hr>
 ## Teaching Duties:
 ### I have served as a teaching assistant (TA) in courses below:
 ### :school: The University of Hong Kong (2019-2021)
