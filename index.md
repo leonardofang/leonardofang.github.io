@@ -47,7 +47,7 @@
 <hr>
 ## Education:
 <div style="display: flex; align-items: center;">
-  <img src="assets/hku.jpg" alt="HKU" style="width: 120px; height: 135px; margin-right: 10px;">
+  <img src="assets/hku.jpg" alt="HKU" style="width: 115px; height: 130px; margin-right: 10px;">
   Master of Philosophy: Sep 2019 - Oct 2021
 </div>
 <div style="display: flex; align-items: center;">
@@ -55,6 +55,6 @@
   Visiting Scholar (Final): Nov 2018 - May 2019
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="assets/zju.jpg" alt="ZJU" style="width: 120px; height: 120px; margin-right: 10px;">
+  <img src="assets/zju.jpg" alt="ZJU" style="width: 130px; height: 130px; margin-right: 10px;">
   Bachelor of Engineering: Sep 2015 - June 2019
 </div>
