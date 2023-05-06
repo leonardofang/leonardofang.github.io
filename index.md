@@ -47,11 +47,11 @@
 <hr>
 ## Education:
 <div style="display: flex; align-items: center;">
-  <img src="assets/hku.jpg" alt="HKU" style="width: 120px; height: 170px; margin-right: 10px;">
+  <img src="assets/hku.jpg" alt="HKU" style="width: 120px; height: 135px; margin-right: 10px;">
   Master of Philosophy: Sep 2019 - Oct 2021
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="assets/nus.jpg" alt="NUS" style="width: 120px; height: 153px; margin-right: 10px;">
+  <img src="assets/nus.jpg" alt="NUS" style="width: 101px; height: 130px; margin-right: 10px;">
   Visiting Scholar (Final): Nov 2018 - May 2019
 </div>
 <div style="display: flex; align-items: center;">
