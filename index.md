@@ -11,10 +11,10 @@
 <hr>
 ## Projects:
 #### - Emotional Gesture Sensing (Ongoing :fire:)
-##### >> Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.
+> ##### Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.
 #### - Elderly Gait-Balance Monitoring System
 #### - Exercise Video Recommendation for Parkinson's Disease (PD) Patients
-##### >> “PDex” is an exercise recommendation app designed for Parkinson’s disease (PD) patients, which focuses on exercise recovery research for PD patients. Now we provide both iOS and Android versions. Detailed are included in the [Test Guideline](https://docs.google.com/document/d/1bH4FAOvC6DQZ_qSEte93dAJAth4aztxp0S3UrtxEbtA/edit). 
+> ##### “PDex” is an exercise recommendation app designed for Parkinson’s disease (PD) patients, which focuses on exercise recovery research for PD patients. Now we provide both iOS and Android versions. Detailed are included in the [Test Guideline](https://docs.google.com/document/d/1bH4FAOvC6DQZ_qSEte93dAJAth4aztxp0S3UrtxEbtA/edit). 
 #### - A Nonintrusive Elderly Home Monitoring System
 #### - Raw Food Recognition and Nutrition Analysis
 
@@ -40,9 +40,9 @@
 ### I have served as a teaching assistant (TA) in courses below:
 ### :school: The University of Hong Kong (2019-2021)
 #### :memo: Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks
-#### >> I helped students to solve some networking questions from assignments and projects. Furthermore, I joined the assignment/project grading work.
+> #### I helped students to solve some networking questions from assignments and projects. Furthermore, I joined the assignment/project grading work.
 #### :memo: Autumn 2019 - Spring 2019: COMP1117  Computer programming (Python)
-#### >> I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.
+> #### I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.
 
 <hr>
 ## Education:
