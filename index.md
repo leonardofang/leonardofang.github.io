@@ -21,7 +21,7 @@
 #### - <span style="color: #F5F5F5;">Raw Food Recognition and Nutrition Analysis</span>
 
 <hr>
-## <a id="pub"></a> <span style="color: #add8e6;">Publications:</span>
+## <a id="pub"></a> <span style="color: #add8e6;">Publications: </span>
 ### <span style="color: #F5F5F5;"> My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} and My [ORCiD](https://orcid.org/0000-0003-1860-4008){:target="_blank" rel="noopener noreferrer"}</span>
 
 #### :page_facing_up:	 <span style="color: white;"> <u>Le Fang</u>, Sark Pangrui Xing, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, EmoSense: Revealing True Emotions Through Micro-Gestures, Wiley Advanced Intelligent Systems Journal, 2023.</span>  
@@ -38,7 +38,7 @@
 #### [M.Phil Thesis:](http://hdl.handle.net/10722/310289){:target="_blank" rel="noopener noreferrer"} Privacy-preserving recommender system with VAEs : Optimization, Privacy, and Application
 
 <hr>
-## <a id="td"></a> <span style="color: #add8e6;">Teaching Duties</span>:
+## <a id="td"></a> <span style="color: #add8e6;">Teaching Duties: </span>
 ### <span style="color: white;"> I have served as a teaching assistant (TA) in courses below:</span>  
 ### :school: <span style="color: #F5F5F5;">The University of Hong Kong (2019-2021)</span>
 #### :memo: <span style="color: #F5F5F5;">Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks</span>
@@ -48,7 +48,7 @@
 > #### <span style="color: white;"> I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.</span>  
 
 <hr>
-## <a id="edu"></a> <span style="color: #add8e6;">Education</span>:
+## <a id="edu"></a> <span style="color: #add8e6;">Education: </span>
 <div style="display: flex; align-items: center; space-between;">
   <a href="https://hku.hk" target="_blank" style="display: flex; align-items: center;">
     <img src="assets/hku-removebg-preview.png" alt="HKU" style="width: 75px; height: 90px; margin-right: 10px;">
