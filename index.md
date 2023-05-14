@@ -4,12 +4,12 @@
 #### :scroll:	 [Curriculum Vitae](https://drive.google.com/file/d/1ecQ5bYDulEMCxVWKoVcQsc1yqgWMkddW/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
 
 <hr>
-## Research Topics {#rt} :
+## <a id="rt"></a>Research Topics :
 #### - AI, Data Science for Healthcare
 #### - IoT for Smart Home
 
 <hr>
-## Projects {#pro}:
+## <a id="pro"></a>Projects:
 #### - Emotional Gesture Sensing (Ongoing :fire:)
 > ##### Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.
 
@@ -21,7 +21,7 @@
 #### - Raw Food Recognition and Nutrition Analysis
 
 <hr>
-## Publications {#pub}:
+## <a id="pub"></a> Publications:
 ### My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} and My [ORCiD](https://orcid.org/0000-0003-1860-4008){:target="_blank" rel="noopener noreferrer"}
 
 #### :page_facing_up:	 <u>Le Fang</u>, Sark Pangrui Xing, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, EmoSense: Revealing True Emotions Through Micro-Gestures, Wiley Advanced Intelligent Systems Journal, 2023. 
@@ -38,7 +38,7 @@
 #### [M.Phil Thesis:](http://hdl.handle.net/10722/310289){:target="_blank" rel="noopener noreferrer"} Privacy-preserving recommender system with VAEs : Optimization, Privacy, and Application
 
 <hr>
-## Teaching Duties {#dt}:
+## <a id="td"></a> Teaching Duties:
 ### I have served as a teaching assistant (TA) in courses below:
 ### :school: The University of Hong Kong (2019-2021)
 #### :memo: Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks
@@ -48,7 +48,7 @@
 > #### I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.
 
 <hr>
-## Education {#edu}:
+## <a id="edu"></a> Education:
 <div style="display: flex; align-items: center; space-between;">
   <a href="https://hku.hk" target="_blank" style="display: flex; align-items: center;">
     <img src="assets/hku.jpg" alt="HKU" style="width: 75px; height: 90px; margin-right: 10px;">
