@@ -5,7 +5,7 @@ title: Le Fang
 show_downloads: false
 is_user_page: false
 remote_theme: "godalming123/minimal"
-color-scheme: ["dark"]
+color_scheme: dark
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jemoji
