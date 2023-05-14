@@ -1,1 +1,1 @@
-
+gem 'jekyll-theme-chirpy'
