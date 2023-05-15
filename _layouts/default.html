@@ -14,6 +14,19 @@
     {% include head-custom.html %}
     
     <style>
+      .container {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar {
+  border: 1px solid #cccccc;
+  padding: 10px;
+  text-align: center;
+  list-style-type: none;
+}
+      
       .round-logo {
         border-radius: 50%;
         width: 200px;
@@ -53,13 +66,29 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
          
         <link rel="stylesheet" href="{{ "/assets/logo.css" | relative_url }}">
+        
+        <div class="container">
+  <div class="logo">
+        {% if site.logo %}
+        <!--  <img src="{{site.logo | relative_url}}" alt="Logo" /> -->
+        <img src="{{site.logo | relative_url}}" alt="Logo" class="round-logo" />
+        {% endif %}
+  </div>
+  <ul class="sidebar">
+    <li><a href="#rt">Research Topics</a></li>
+    <li><a href="#pro">Projects</a></li>
+    <li><a href="#pub">Publications</a></li>
+    <li><a href="#td">Teaching Duties</a></li>
+    <li><a href="#edu">Education</a></li>
+  </ul>
+</div>
+        
         {% if site.logo %}
         <!--  <img src="{{site.logo | relative_url}}" alt="Logo" /> -->
         <img src="{{site.logo | relative_url}}" alt="Logo" class="round-logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
         {% if site.github.is_project_page %}
         <!-- <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>-->
         {% endif %}
@@ -77,7 +106,7 @@
         </ul>
         {% endif %}
         
-        {% include sidebar.html %}
+        <!--         {% include sidebar.html %} -->
         {% include clustrmaps.html %}
         
       </header>
