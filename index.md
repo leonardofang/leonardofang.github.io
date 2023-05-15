@@ -51,7 +51,7 @@
 ## <a id="edu"></a> <span style="color: #2E8BC0;">Education: </span>
 <div style="display: flex; align-items: center; space-between;">
   <a href="https://hku.hk" target="_blank" style="display: flex; align-items: center;">
-    <img src="assets/hku-removebg-preview.png" alt="HKU" style="width: 75px; height: 90px; margin-right: 10px;">
+    <img src="assets/hku-removebg-preview(1).png" alt="HKU" style="width: 75px; height: 90px; margin-right: 10px;">
     <span>HKU <br> Master of Philosophy: Sep 2019 - Oct 2021</span>
   </a>
   
