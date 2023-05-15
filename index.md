@@ -5,47 +5,47 @@
 
 <hr>
 ## <a id="rt"></a><span style="color: #2E8BC0;">Research Topics: </span>
-#### <span style="color: white;"> - AI, Data Science for Healthcare </span>
-#### <span style="color: white;"> - IoT for Smart Home </span>
+#### <span style="color: #cccccc;"> - AI, Data Science for Healthcare </span>
+#### <span style="color: #cccccc;"> - IoT for Smart Home </span>
 
 <hr>
 ## <a id="pro"></a><span style="color: #2E8BC0;">Projects: </span>
-#### - <span style="color: #F5F5F5;"> Emotional Gesture Sensing (Ongoing :fire:)</span>
-> ##### <span style="color: white;"> Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.</span>
+#### - <span style="color: #cccccc;"> Emotional Gesture Sensing (Ongoing :fire:)</span>
+> ##### <span style="color: #cccccc;"> Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.</span>
 
-#### - <span style="color: #F5F5F5;">Elderly Gait-Balance Monitoring System</span>
-#### - <span style="color: #F5F5F5;">Exercise Video Recommendation for Parkinson's Disease (PD) Patients</span>
+#### - <span style="color: #cccccc;">Elderly Gait-Balance Monitoring System</span>
+#### - <span style="color: #cccccc;">Exercise Video Recommendation for Parkinson's Disease (PD) Patients</span>
 > ##### <span style="color: white;"> “PDex” is an exercise recommendation app designed for Parkinson’s disease (PD) patients, which focuses on exercise recovery research for PD patients. Now we provide both iOS and Android versions. Detailed are included in the [Test Guideline](https://docs.google.com/document/d/1bH4FAOvC6DQZ_qSEte93dAJAth4aztxp0S3UrtxEbtA/edit){:target="_blank" rel="noopener noreferrer"}.</span> 
 
-#### - <span style="color: #F5F5F5;">A Nonintrusive Elderly Home Monitoring System</span>
-#### - <span style="color: #F5F5F5;">Raw Food Recognition and Nutrition Analysis</span>
+#### - <span style="color: #cccccc;">A Nonintrusive Elderly Home Monitoring System</span>
+#### - <span style="color: #cccccc;">Raw Food Recognition and Nutrition Analysis</span>
 
 <hr>
 ## <a id="pub"></a> <span style="color: #2E8BC0;">Publications: </span>
-### <span style="color: #F5F5F5;"> My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} and My [ORCiD](https://orcid.org/0000-0003-1860-4008){:target="_blank" rel="noopener noreferrer"}</span>
+### <span style="color: #cccccc;"> My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} and My [ORCiD](https://orcid.org/0000-0003-1860-4008){:target="_blank" rel="noopener noreferrer"}</span>
 
-#### :page_facing_up:	 <span style="color: white;"> <u>Le Fang</u>, Sark Pangrui Xing, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, EmoSense: Revealing True Emotions Through Micro-Gestures, Wiley Advanced Intelligent Systems Journal, 2023.</span>  
+#### :page_facing_up:	 <span style="color: #cccccc;"> <u>Le Fang</u>, Sark Pangrui Xing, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, EmoSense: Revealing True Emotions Through Micro-Gestures, Wiley Advanced Intelligent Systems Journal, 2023.</span>  
 [Accepted](https://onlinelibrary.wiley.com/journal/26404567){:target="_blank" rel="noopener noreferrer"} (IF: 7.298, JCR: Q1)
 
-#### :page_facing_up:	<span style="color: white;"> <u>Le Fang</u>, Chuan Wu, HES: Edge Sampling for Heterogeneous Graphs, IEEE/INNS International Joint Conference on Neural Networks (IJCNN 2023), Queensland, Australia, 18-23 June, 2023.</span> 
+#### :page_facing_up:	<span style="color: #cccccc;"> <u>Le Fang</u>, Chuan Wu, HES: Edge Sampling for Heterogeneous Graphs, IEEE/INNS International Joint Conference on Neural Networks (IJCNN 2023), Queensland, Australia, 18-23 June, 2023.</span> 
 
-#### :page_facing_up:	 <span style="color: white;"> <u>Le Fang</u>, Bingqian Du, Chuan Wu, Differentially Private Recommender System with Variational Autoencoders, Elsevier Knowledge-Based Systems Journal, Volume 250, 109044, 17 Aug., 2022. </span> 
+#### :page_facing_up:	 <span style="color: #cccccc;"> <u>Le Fang</u>, Bingqian Du, Chuan Wu, Differentially Private Recommender System with Variational Autoencoders, Elsevier Knowledge-Based Systems Journal, Volume 250, 109044, 17 Aug., 2022. </span> 
 [DOI Access](https://doi.org/10.1016/j.knosys.2022.109044){:target="_blank" rel="noopener noreferrer"} (IF: 8.139, JCR: Q1)
 
-#### :page_facing_up:	 <span style="color: white;"> <u>Le Fang</u>, Yu Wu, Chuan Wu, Yizhou Yu, A Nonintrusive Elderly Home Monitoring System, IEEE Internet of Things Journal, vol. 8, no. 4, pp. 2603-2614,15 Feb., 2021.</span>  
+#### :page_facing_up:	 <span style="color: #cccccc;"> <u>Le Fang</u>, Yu Wu, Chuan Wu, Yizhou Yu, A Nonintrusive Elderly Home Monitoring System, IEEE Internet of Things Journal, vol. 8, no. 4, pp. 2603-2614,15 Feb., 2021.</span>  
 [DOI Access](https://ieeexplore.ieee.org/document/9177049) (IF: 10.238, JCR: Q1)
 
 #### [M.Phil Thesis:](http://hdl.handle.net/10722/310289){:target="_blank" rel="noopener noreferrer"} Privacy-preserving recommender system with VAEs : Optimization, Privacy, and Application
 
 <hr>
 ## <a id="td"></a> <span style="color: #2E8BC0;">Teaching Duties: </span>
-### <span style="color: white;"> I have served as a teaching assistant (TA) in courses below:</span>  
-### :school: <span style="color: #F5F5F5;">The University of Hong Kong (2019-2021)</span>
-#### :memo: <span style="color: #F5F5F5;">Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks</span>
-> #### <span style="color: white;"> I helped students to solve some networking questions from assignments and projects. Furthermore, I joined the assignment/project grading work.</span>  
+### <span style="color: #cccccc;"> I have served as a teaching assistant (TA) in courses below:</span>  
+### :school: <span style="color: #cccccc;">The University of Hong Kong (2019-2021)</span>
+#### :memo: <span style="color: #cccccc;">Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks</span>
+> #### <span style="color: #cccccc;"> I helped students to solve some networking questions from assignments and projects. Furthermore, I joined the assignment/project grading work.</span>  
 
-#### :memo: <span style="color: #F5F5F5;">Autumn 2019 - Spring 2019: COMP1117  Computer programming (Python)</span>
-> #### <span style="color: white;"> I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.</span>  
+#### :memo: <span style="color: #cccccc;">Autumn 2019 - Spring 2019: COMP1117  Computer programming (Python)</span>
+> #### <span style="color: #cccccc;"> I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.</span>  
 
 <hr>
 ## <a id="edu"></a> <span style="color: #2E8BC0;">Education: </span>
