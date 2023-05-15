@@ -56,7 +56,7 @@
   </a>
   
   <a href="https://nus.edu.sg" target="_blank" style="display: flex; align-items: center;">
-    <img src="assets/nus.jpg" alt="NUS" style="width: 75px; height: 90px; margin-right: 10px;">
+    <img src="assets/nus-removebg-preview.png" alt="NUS" style="width: 75px; height: 90px; margin-right: 10px;">
     <span>NUS <br> Visiting Scholar (Final): Nov 2018 - May 2019</span>
   </a>
 </div>
