@@ -7,6 +7,8 @@
 ## <a id="pro"></a><span style="color: #2E8BC0;">Projects: </span>
 #### - <span style="color: #cccccc;"> Emotional Gesture Sensing (Ongoing :fire:)</span>
 > ##### <span style="color: #cccccc;"> Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.</span>
+> <iframe src="[https://drive.google.com/file/d/VIDEO_ID/preview](https://drive.google.com/file/d/1GxOvgnyPZg31IDn25UBranWkCGjlOheK/view?usp=share_link)" width="640" height="480" allow="encrypted-media"></iframe>
+
 
 #### - <span style="color: #cccccc;">Elderly Gait-Balance Monitoring System</span>
 #### - <span style="color: #cccccc;">Exercise Video Recommendation for Parkinson's Disease (PD) Patients</span>
