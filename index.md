@@ -3,35 +3,11 @@
 #### :email:  [Le Fang](mailto:lefang@connect.hku.hk?subject=Contact%20From%20[Github])
 #### :scroll:	 [Curriculum Vitae](https://drive.google.com/file/d/1ecQ5bYDulEMCxVWKoVcQsc1yqgWMkddW/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}
 
-<hr>
-## <a id="rt"></a><span style="color: #2E8BC0;">Research Topics: </span>
-#### <span style="color: #cccccc;"> - AI, Data Science for Healthcare </span>
-#### <span style="color: #cccccc;"> - IoT for Smart Home </span>
-
-<hr>
-## <a id="pro"></a><span style="color: #2E8BC0;">Projects: </span>
-#### - <span style="color: #cccccc;"> Emotional Gesture Sensing (Ongoing :fire:)</span>
-> ##### <span style="color: #cccccc;"> Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on   gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels.</span>
-
-#### - <span style="color: #cccccc;">Elderly Gait-Balance Monitoring System</span>
-#### - <span style="color: #cccccc;">Exercise Video Recommendation for Parkinson's Disease (PD) Patients</span>
-> ##### <span style="color: #cccccc;"> “PDex” is an exercise recommendation app designed for Parkinson’s disease (PD) patients, which focuses on exercise recovery research for PD patients. Now we provide both iOS and Android versions. Detailed are included in the [Test Guideline](https://docs.google.com/document/d/1bH4FAOvC6DQZ_qSEte93dAJAth4aztxp0S3UrtxEbtA/edit){:target="_blank" rel="noopener noreferrer"}.</span> 
-
-#### - <span style="color: #cccccc;">A Nonintrusive Elderly Home Monitoring System</span>
-#### - <span style="color: #cccccc;">Raw Food Recognition and Nutrition Analysis</span>
-
+{% include project.md %}
 
 {% include publication.md %}
 
-<hr>
-## <a id="td"></a> <span style="color: #2E8BC0;">Teaching Duties: </span>
-### <span style="color: #cccccc;"> I have served as a teaching assistant (TA) in courses below:</span>  
-### :school: <span style="color: #cccccc;">The University of Hong Kong (2019-2021)</span>
-#### :memo: <span style="color: #cccccc;">Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks</span>
-> #### <span style="color: #cccccc;"> I helped students to solve some networking questions from assignments and projects. Furthermore, I joined the assignment/project grading work.</span>  
-
-#### :memo: <span style="color: #cccccc;">Autumn 2019 - Spring 2019: COMP1117  Computer programming (Python)</span>
-> #### <span style="color: #cccccc;"> I served as a tutor and helped students to solve some programming problems during their studies. Besides, I joined the grading work for the mid-term test.</span>  
+{% include ta.md %}
 
 <hr>
 ## <a id="edu"></a> <span style="color: #2E8BC0;">Education: </span>
