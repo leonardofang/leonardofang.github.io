@@ -14,7 +14,7 @@
     {% include head-custom.html %}
     
     <style>
-      .container {
+/*       .container {
     display: flex;
   justify-content: center;
   align-items: center;
@@ -26,13 +26,13 @@
   text-align: center;
   list-style-type: none;
 }
-      
+       */
       .round-logo {
         border-radius: 50%;
         width: 200px;
         height: 200px;
-        display: block;
-        margin: 0 auto;
+/*         display: block;
+        margin: 0 auto; */
   }
 /*     .sidebar {
       width: 200px;
@@ -67,21 +67,10 @@
          
         <link rel="stylesheet" href="{{ "/assets/logo.css" | relative_url }}">
         
-        <div class="container">
-  <div class="logo">
         {% if site.logo %}
         <!--  <img src="{{site.logo | relative_url}}" alt="Logo" /> -->
         <img src="{{site.logo | relative_url}}" alt="Logo" class="round-logo" />
         {% endif %}
-  </div>
-  <ul class="sidebar">
-    <li><a href="#rt">Research Topics</a></li>
-    <li><a href="#pro">Projects</a></li>
-    <li><a href="#pub">Publications</a></li>
-    <li><a href="#td">Teaching Duties</a></li>
-    <li><a href="#edu">Education</a></li>
-  </ul>
-</div>
         
         {% if site.logo %}
         <!--  <img src="{{site.logo | relative_url}}" alt="Logo" /> -->
@@ -106,7 +95,7 @@
         </ul>
         {% endif %}
         
-        <!--         {% include sidebar.html %} -->
+        {% include sidebar.html %}
         {% include clustrmaps.html %}
         
       </header>
