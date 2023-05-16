@@ -3,7 +3,7 @@
 ### <span style="color: #cccccc;"> My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} and My [ORCiD](https://orcid.org/0000-0003-1860-4008){:target="_blank" rel="noopener noreferrer"}</span>
 
 #### :page_facing_up:	 <span style="color: #cccccc;"> <u>Le Fang</u>, Sark Pangrui Xing, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, EmoSense: Revealing True Emotions Through Micro-Gestures, Wiley Advanced Intelligent Systems Journal, 2023.</span>  
-[Accepted](https://onlinelibrary.wiley.com/journal/26404567){:target="_blank" rel="noopener noreferrer"} (IF: 7.298, JCR: Q1)
+[DOI Access](https://doi.org/10.1002/aisy.202300050){:target="_blank" rel="noopener noreferrer"} (IF: 7.298, JCR: Q1)
 
 #### :page_facing_up:	<span style="color: #cccccc;"> <u>Le Fang</u>, Chuan Wu, HES: Edge Sampling for Heterogeneous Graphs, IEEE/INNS International Joint Conference on Neural Networks (IJCNN 2023), Queensland, Australia, 18-23 June, 2023.</span> 
 
