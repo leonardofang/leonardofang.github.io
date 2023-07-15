@@ -3,7 +3,7 @@
 ### <span style="color: #cccccc;"> My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} and My [ORCiD](https://orcid.org/0000-0003-1860-4008){:target="_blank" rel="noopener noreferrer"}</span>
 
 #### :page_facing_up:	 <span style="color: #cccccc;"> <u>Le Fang</u>, Sark Pangrui Xing, Zhengtao Ma, Zhijie Zhang, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, Emo-MG Framework: LSTM-based Multi-modal Emotion Detection through Electroencephalography Signals and Micro Gestures, 2023.</span>
-[DOI Access](https://10.1080/10447318.2023.2228983){:target="_blank" rel="noopener noreferrer"} (JCR: Q1, CCF-B)
+[DOI Access](https://doi.org/10.1080/10447318.2023.2228983){:target="_blank" rel="noopener noreferrer"} (JCR: Q1, CCF-B)
 
 #### :page_facing_up:	 <span style="color: #cccccc;"> <u>Le Fang</u>, Sark Pangrui Xing, Yonghao Long, Kun-Pyo Lee, Stephen Jia Wang, EmoSense: Revealing True Emotions Through Micro-Gestures, Wiley Advanced Intelligent Systems Journal, 2300050, 29 Jun. 2023.</span>  
 [DOI Access](https://doi.org/10.1002/aisy.202300050){:target="_blank" rel="noopener noreferrer"} (JCR: Q1)
