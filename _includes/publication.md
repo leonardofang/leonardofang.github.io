@@ -15,6 +15,6 @@
 [DOI Access](https://doi.org/10.1016/j.knosys.2022.109044){:target="_blank" rel="noopener noreferrer"} (JCR: Q1)
 
 #### :page_facing_up:	 <span style="color: #cccccc;"> <u>Le Fang</u>, Yu Wu, Chuan Wu, Yizhou Yu, A Nonintrusive Elderly Home Monitoring System, IEEE Internet of Things Journal, vol. 8, no. 4, pp. 2603-2614,15 Feb. 2021.</span>  
-[DOI Access](https://ieeexplore.ieee.org/document/9177049) (JCR: Q1)
+[DOI Access](https://doi.org/10.1109/JIOT.2020.3019270){:target="_blank" rel="noopener noreferrer"}  (JCR: Q1)
 
 #### [M.Phil Thesis:](http://hdl.handle.net/10722/310289){:target="_blank" rel="noopener noreferrer"} Privacy-preserving recommender system with VAEs : Optimization, Privacy, and Application}
