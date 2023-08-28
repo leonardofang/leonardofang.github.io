@@ -28,7 +28,7 @@
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.zju.edu.cn/english/" target="_blank" style="display: flex; align-items: center;">
-    <img src="assets/zju-removebg-preview.png" alt="Zhejiang University" style="width: 75px; height: 90px; margin-right: 10px;">
+    <img src="assets/zju-removebg-preview.png" alt="Zhejiang University (ZJU)" style="width: 75px; height: 90px; margin-right: 10px;">
     <span> Zhejiang University <br> Bachelor of Engineering: Sep 2015 - June 2019</span>
   </a>
 </div>
