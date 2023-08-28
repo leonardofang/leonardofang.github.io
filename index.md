@@ -10,6 +10,11 @@
 {% include ta.md %}
 
 <hr>
+<style>
+  .paragraph {
+    margin-bottom: 5px; /* Adjust the height of the space here */
+  }
+</style>
 ## <a id="edu"></a> <span style="color: #2E8BC0;">Education: </span>
   <!--  <div style="display: flex; align-items: center; space-between;"> -->
   <div style="display: flex; align-items: center;">
@@ -19,7 +24,7 @@
   </a>
   </div>
 
-  <br>
+  <div style="margin-bottom: 10px;"></div>
 
   <div style="display: flex; align-items: center;">
     <a href="https://nus.edu.sg" target="_blank" style="display: flex; align-items: center;"> 
@@ -28,7 +33,7 @@
   </a>
 </div>
 
-<br>
+<div style="margin-bottom: 5px;"></div>
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.zju.edu.cn/english/" target="_blank" style="display: flex; align-items: center;">
