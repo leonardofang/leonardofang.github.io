@@ -19,12 +19,16 @@
   </a>
   </div>
 
+  <br>
+
   <div style="display: flex; align-items: center;">
     <a href="https://nus.edu.sg" target="_blank" style="display: flex; align-items: center;"> 
     <img src="assets/nus-removebg-preview.png" alt="National University of Singapore" style="width: 75px; height: 90px; margin-right: 10px;">
     <span> National University of Singapore (NUS) <br> Visiting Scholar (Computing): Nov 2018 - May 2019</span>
   </a>
 </div>
+
+<br>
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.zju.edu.cn/english/" target="_blank" style="display: flex; align-items: center;">
