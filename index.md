@@ -11,22 +11,25 @@
 
 <hr>
 ## <a id="edu"></a> <span style="color: #2E8BC0;">Education: </span>
-<div style="display: flex; align-items: center; space-between;">
+  <!--  <div style="display: flex; align-items: center; space-between;"> -->
+  <div style="display: flex; align-items: center;">
   <a href="https://hku.hk" target="_blank" style="display: flex; align-items: center;">
     <img src="assets/hku-removebg-preview(1).png" alt="The Universoty of Hong Kong" style="width: 75px; height: 90px; margin-right: 10px;">
     <span> The Universoty of Hong Kong (HKU) <br> Master of Philosophy: Sep 2019 - Oct 2021</span>
   </a>
-  
-  <a href="https://nus.edu.sg" target="_blank" style="display: flex; align-items: center;">
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <a href="https://nus.edu.sg" target="_blank" style="display: flex; align-items: center;"> 
     <img src="assets/nus-removebg-preview.png" alt="National University of Singapore" style="width: 75px; height: 90px; margin-right: 10px;">
-    <span> National University of Singapore (NUS) <br> Visiting Scholar: Nov 2018 - May 2019</span>
+    <span> National University of Singapore (NUS) <br> Visiting Scholar (Computing): Nov 2018 - May 2019</span>
   </a>
 </div>
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.zju.edu.cn/english/" target="_blank" style="display: flex; align-items: center;">
     <img src="assets/zju-removebg-preview.png" alt="Zhejiang University" style="width: 75px; height: 90px; margin-right: 10px;">
-    <span>ZJU <br> Zhejiang University (ZJU): Sep 2015 - June 2019</span>
+    <span> Zhejiang University <br> Bachelor of Engineering: Sep 2015 - June 2019</span>
   </a>
 </div>
 
