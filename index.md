@@ -33,8 +33,6 @@
   </a>
 </div>
 
-<div style="margin-bottom: 5px;"></div>
-
 <div style="display: flex; align-items: center;">
   <a href="https://www.zju.edu.cn/english/" target="_blank" style="display: flex; align-items: center;">
     <img src="assets/zju-removebg-preview.png" alt="Zhejiang University" style="width: 75px; height: 90px; margin-right: 10px;">
