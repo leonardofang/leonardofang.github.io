@@ -16,11 +16,21 @@
   }
 </style>
 ## <a id="edu"></a> <span style="color: #2E8BC0;">Education: </span>
-  <!--  <div style="display: flex; align-items: center; space-between;"> -->
+<!--  <div style="display: flex; align-items: center; space-between;"> -->
+
+  <div style="display: flex; align-items: center;">
+  <a href="https://hku.hk" target="_blank" style="display: flex; align-items: center;">
+    <img src="assets/hku-removebg-preview(1).png" alt="The Hong Kong Polytechnic University" style="width: 75px; height: 90px; margin-right: 10px;">
+    <span> The Hong Kong Polytechnic University (HKPolyU) <br> Doctor of Philosophy: Sep 2023 - Present </span>
+  </a>
+  </div>
+
+  <div style="margin-bottom: 10px;"></div>
+
   <div style="display: flex; align-items: center;">
   <a href="https://hku.hk" target="_blank" style="display: flex; align-items: center;">
     <img src="assets/hku-removebg-preview(1).png" alt="The Universoty of Hong Kong" style="width: 75px; height: 90px; margin-right: 10px;">
-    <span> The Universoty of Hong Kong (HKU) <br> Master of Philosophy: Sep 2019 - Oct 2021</span>
+    <span> The Universoty of Hong Kong (HKU) <br> Master of Philosophy: Sep 2019 - Oct 2021 </span>
   </a>
   </div>
 
