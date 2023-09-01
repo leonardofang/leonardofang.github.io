@@ -19,8 +19,8 @@
 <!--  <div style="display: flex; align-items: center; space-between;"> -->
 
   <div style="display: flex; align-items: center;">
-  <a href="https://hku.hk" target="_blank" style="display: flex; align-items: center;">
-    <img src="assets/hku-removebg-preview(1).png" alt="The Hong Kong Polytechnic University" style="width: 75px; height: 90px; margin-right: 10px;">
+  <a href="[https://hku.hk](https://www.polyu.edu.hk/en/)" target="_blank" style="display: flex; align-items: center;">
+    <img src="assets/PolyU_Logo_630x630-removebg-preview(1).png" alt="The Hong Kong Polytechnic University" style="width: 75px; height: 90px; margin-right: 10px;">
     <span> The Hong Kong Polytechnic University (HKPolyU) <br> Doctor of Philosophy: Sep 2023 - Present </span>
   </a>
   </div>
