@@ -8,7 +8,7 @@
 ## <a id="pro"></a><span style="color: #2E8BC0;">Projects: </span>
 
 ####  <span style="color: #cccccc;"> - HCI in Affective Computing (Ongoing :fire:)</span>
-> ##### <span style="color: #cccccc;"> Ubiquitous emotional states take place everywhere. Our research studies human factors in emotion detection and presents an empirical study of emotion detection based on various interactive methods, leveraging advanced AI methods and sensor systems. </span>  
+> ##### <span style="color: #cccccc;"> Widespread emotional experiences are ubiquitous in our lives. Our research delves into the intricate realm of human factors in emotion detection, presenting an empirical investigation that employs diverse interactive techniques. We harness cutting-edge AI methodologies and sensor systems to advance the understanding of the affective computing field. </span>  
 
 #### <span style="color: #cccccc;"> - Elderly Gait-Balance Monitoring System</span>
 
