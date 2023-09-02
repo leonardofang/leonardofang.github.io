@@ -1,13 +1,14 @@
 <hr>
 ## <a id="rt"></a><span style="color: #2E8BC0;">Research Topics: </span>
-#### <span style="color: #cccccc;"> - AI, Data Science for Healthcare </span>
-#### <span style="color: #cccccc;"> - IoT for Smart Home </span>
+#### <span style="color: #cccccc;"> - AI, Data Science in Healthcare </span>
+#### <span style="color: #cccccc;"> - HCI in Affective Computing </span>
+#### <span style="color: #cccccc;"> - IoT in Smart Home </span>
 
 <hr>
 ## <a id="pro"></a><span style="color: #2E8BC0;">Projects: </span>
 
-####  <span style="color: #cccccc;"> - Emotional Gesture Sensing (Ongoing :fire:)</span>
-> ##### <span style="color: #cccccc;"> Stress is an universally ubiquitous emotional state and takes place everywhere. In our research, we present an empirical study on stress detection based on gestures and proposes a stress detection system by linking the gesture frequency with diverse stress levels. </span>  
+####  <span style="color: #cccccc;"> - HCI in Affective Computing (Ongoing :fire:)</span>
+> ##### <span style="color: #cccccc;"> Ubiquitous emotional states take place everywhere. Our research studies human factors in emotion detection and presents an empirical study of emotion detection based on various interactive methods, leveraging advanced AI methods and sensor systems. </span>  
 
 #### <span style="color: #cccccc;"> - Elderly Gait-Balance Monitoring System</span>
 
