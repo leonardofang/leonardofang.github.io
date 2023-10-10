@@ -15,7 +15,7 @@
     margin-bottom: 5px; /* Adjust the height of the space here */
   }
 </style>
-## <a id="edu"></a> <span style="color: #2E8BC0;">Education: </span>
+## <a id="edu"></a> <span style="color: #ededeb;">Education: </span>
 <!--  <div style="display: flex; align-items: center; space-between;"> -->
 
   <div style="display: flex; align-items: center;">
