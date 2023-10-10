@@ -1,5 +1,5 @@
 <hr>
-## <a id="td"></a> <span style="color: #2E8BC0;">Teaching Duties: </span>
+## <a id="td"></a> <span style="color: #ededeb;">Teaching Duties: </span>
 ### <span style="color: #cccccc;"> I have served as a teaching assistant (TA) in courses below:</span>  
 ### :school: <span style="color: #cccccc;">The University of Hong Kong (2019-2021)</span>
 #### :memo: <span style="color: #cccccc;">Autumn 2020 - Spring 2021: COMP3234 Computer and communication networks</span>
