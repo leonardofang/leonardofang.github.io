@@ -1,5 +1,5 @@
 <hr>
-## <a id="rt"></a><span style="color: #2E8BC0;">Research Topics: </span>
+## <a id="rt"></a><span style="color: #ededeb;">Research Topics: </span>
 #### <span style="color: #cccccc;"> - AI, Data Science in Healthcare </span>
 #### <span style="color: #cccccc;"> - HCI in Affective Computing </span>
 #### <span style="color: #cccccc;"> - IoT in Smart Home </span>
