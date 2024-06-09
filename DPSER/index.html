@@ -14,16 +14,25 @@
     <h4>Kindly explore the audio demos below, crafted using an LSTM neural network and sourced
         from the CASIA Chinese dataset (6 emotions: angry, fear, happy, neutral, sad, surprise). Please maintain a low volume to alleviate any noise-induced discomfort.
     </h4>
-    <h4 style="color: #228B22;">Prediction under the original LSTM SER model:</h4>
-    <table style="width:90%">
+    <h4>Prediction under the
+    <span style="color: #228B22;">original non-DP LSTM </span>
+        and the
+    <span style="color: #1E90FF;">DP LSTM</span>
+        LSTM SER models
+   </h4>
+    <table style="width:100%">
                 <tbody><tr>
                     <th>Speaker</th>
                     <th>Origin</th>
                     <th>Label</th>
+                    <th style="color: #228B22;">Non-DP model</th>
+                    <th style="color: #1E90FF;">DP model</th>
                     <th>Input with White Noise</th>
-                    <th>Prediction</th>
+                    <th style="color: #228B22;">Non-DP model</th>
+                    <th style="color: #1E90FF;">DP model</th>
                     <th>Input with DP Mechanism</th>
-                    <th>Prediction</th>
+                    <th style="color: #228B22;">Non-DP model</th>
+                    <th style="color: #1E90FF;">DP model</th>
                 </tr>
                 <tr></tr>
                 <tr>
@@ -35,6 +44,8 @@
                           </audio>
                     </th>
                     <th>Angry</th>
+                    <th>Angry</th>
+                    <th>Angry</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_201-angry-liuchanhg_data1.wav" type="audio/mpeg">
@@ -42,12 +53,14 @@
                           </audio>
                     </th>
                     <th>Angry</th>
+                    <th>Angry</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_201-angry-liuchanhg_data2.wav" type="audio/mpeg">
                           Your browser does not support the audio element.
                           </audio>
                     </th>
+                    <th>Angry</th>
                     <th>Angry</th>
                 </tr>
                 <tr>
@@ -59,6 +72,8 @@
                           </audio>
                     </th>
                     <th>Fear</th>
+                    <th>Fear</th>
+                    <th>Fear</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_201-fear-liuchanhg_data1.wav" type="audio/mpeg">
@@ -66,12 +81,14 @@
                           </audio>
                     </th>
                     <th>Fear</th>
+                    <th>Fear</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_201-fear-liuchanhg_data2.wav" type="audio/mpeg">
                           Your browser does not support the audio element.
                           </audio>
                     </th>
+                    <th>Fear</th>
                     <th>Fear</th>
                 </tr>
                 <tr>
@@ -83,6 +100,8 @@
                           </audio>
                     </th>
                     <th>Happy</th>
+                    <th>Happy</th>
+                    <th>Happy</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_data1_201-happy-liuchanhg.wav" type="audio/mpeg">
@@ -90,12 +109,14 @@
                           </audio>
                     </th>
                     <th>Happy</th>
+                    <th>Happy</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_data2_201-happy-liuchanhg.wav" type="audio/mpeg">
                           Your browser does not support the audio element.
                           </audio>
                     </th>
+                    <th>Happy</th>
                     <th>Happy</th>
                 </tr>
                 <tr>
@@ -107,6 +128,8 @@
                           </audio>
                     </th>
                     <th>Neutral</th>
+                    <th>Neutral</th>
+                    <th>Neutral</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_data1_201-neutral-liuchanhg.wav" type="audio/mpeg">
@@ -114,12 +137,14 @@
                           </audio>
                     </th>
                     <th>Neutral</th>
+                    <th>Neutral</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_data2_201-neutral-liuchanhg.wav" type="audio/mpeg">
                           Your browser does not support the audio element.
                           </audio>
                     </th>
+                    <th>Neutral</th>
                     <th>Neutral</th>
                 </tr>
                 <tr>
@@ -131,6 +156,8 @@
                           </audio>
                     </th>
                     <th>Sad</th>
+                    <th>Sad</th>
+                    <th>Sad</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_data1_201-sad-liuchanhg.wav" type="audio/mpeg">
@@ -138,12 +165,14 @@
                           </audio>
                     </th>
                     <th>Sad</th>
+                    <th>Sad</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_data2_201-sad-liuchanhg.wav" type="audio/mpeg">
                           Your browser does not support the audio element.
                           </audio>
                     </th>
+                    <th>Sad</th>
                     <th>Sad</th>
                 </tr>
                 <tr>
@@ -155,162 +184,7 @@
                           </audio>
                     </th>
                     <th>Surprise</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_data1_201-surprise-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
                     <th>Surprise</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_data2_201-surprise-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Surprise</th>
-                </tr>
-            </tbody></table>
-    <h4 style="color: #1E90FF;">Prediction under the DP-LSTM SER model:</h4>
-    <table style="width:90%">
-                <tbody><tr>
-                    <th>Speaker</th>
-                    <th>Origin</th>
-                    <th>Label</th>
-                    <th>Input with White Noise</th>
-                    <th>Prediction</th>
-                    <th>Input with DP Mechanism</th>
-                    <th>Prediction</th>
-                </tr>
-                <tr></tr>
-                <tr>
-                    <th>liuchanhg</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/201-angry-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Angry</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_201-angry-liuchanhg_data1.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Angry</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_201-angry-liuchanhg_data2.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Angry</th>
-                </tr>
-                <tr>
-                    <th>liuchanhg</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/201-fear-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Fear</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_201-fear-liuchanhg_data1.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Fear</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_201-fear-liuchanhg_data2.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Fear</th>
-                </tr>
-                <tr>
-                    <th>liuchanhg</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/201-happy-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Happy</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_data1_201-happy-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Happy</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_data2_201-happy-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Happy</th>
-                </tr>
-                <tr>
-                    <th>liuchanhg</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/201-neutral-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Neutral</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_data1_201-neutral-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Neutral</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_data2_201-neutral-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Neutral</th>
-                </tr>
-                <tr>
-                    <th>liuchanhg</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/201-sad-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Sad</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_data1_201-sad-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Sad</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/noisy_data2_201-sad-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
-                    <th>Sad</th>
-                </tr>
-                <tr>
-                    <th>liuchanhg</th>
-                    <th>
-                        <audio controls="" style="width: 250px;">
-                            <source src="audio/liuchanhg/201-surprise-liuchanhg.wav" type="audio/mpeg">
-                          Your browser does not support the audio element.
-                          </audio>
-                    </th>
                     <th>Surprise</th>
                     <th>
                         <audio controls="" style="width: 250px;">
@@ -319,12 +193,14 @@
                           </audio>
                     </th>
                     <th>Surprise</th>
+                    <th>Surprise</th>
                     <th>
                         <audio controls="" style="width: 250px;">
                             <source src="audio/liuchanhg/noisy_data2_201-surprise-liuchanhg.wav" type="audio/mpeg">
                           Your browser does not support the audio element.
                           </audio>
                     </th>
+                    <th>Surprise</th>
                     <th>Surprise</th>
                 </tr>
             </tbody></table>
