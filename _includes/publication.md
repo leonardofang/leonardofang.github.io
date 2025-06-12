@@ -1,5 +1,5 @@
 <hr>
-## <a id="pub"></a> <span style="color: #ededeb;">Publications: </span>
+## <a id="pub"></a> <span style="color: #ededeb;">First-author Publications: </span>
 <!-- ### <span style="color: #cccccc;"> My [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ&hl=en){:target="_blank" rel="noopener noreferrer"} and My [ORCiD](https://orcid.org/0000-0003-1860-4008){:target="_blank" rel="noopener noreferrer"}</span> -->
 #### :page_facing_up:	 <span style="color: #cccccc;"> <u>Le Fang</u>, Bo Chai, Yingqing Xu, Stephen Jia Wang. KANFeel: A Novel Kolmogorov-Arnold Network-Based Multimodal Emotion Recognition Framework, in Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA'25), Yokohama, Japan, April 26--May 5, 2025.</span> [DOI Access](https://doi.org/10.1145/3706599.3720217){:target="_blank" rel="noopener noreferrer"}
 
