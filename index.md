@@ -10,7 +10,7 @@ My research journey is fueled by a profound interest in realms, including Human-
 Data Mining, and the Internet of Things (IoT) for Healthcare. I am invigorated by the prospect of collaborating with fellow 
 researchers who share a fervor for pushing the boundaries of advanced technologies to serve practical applications. </span>
 
-#### :email:  [Le Fang](mailto:lefang@connect.hku.hk)
+#### :email: mailto:lefang@connect.hku.hk
 
 {% include news.md %}
 
