@@ -10,8 +10,8 @@
 ####  <span style="color: #cccccc;"> - HCI in Affective Computing (Ongoing :fire:)</span>
 > ##### <span style="color: #cccccc;"> Widespread emotional experiences are ubiquitous in our lives. Our research delves into the intricate realm of human factors in emotion detection, presenting an empirical investigation that employs diverse interactive techniques. We harness cutting-edge AI methodologies and sensor systems to advance the understanding of the affective computing field.</span> 
 > [Advanced Science News: Scientists test the link between tiny subconscious gestures and stress](https://www.advancedsciencenews.com/scientists-test-the-link-between-tiny-subconscious-gestures-and-stress/){:target="_blank" rel="noopener noreferrer"}
-> > ##### <span style="color: #cccccc;"> - Patent 1: WANG Stephen Jia, FANG Le, XING Pangrui. Psychological Stress Level Detection Method, Apparatus and System, Chinese Patent Number 202310482975.1, granted on June 14, 2023. </span>
-> > ##### <span style="color: #cccccc;"> - Patent 2: WANG Stephen Jia, FANG Le, XING Pangrui. Psychological Stress Level Detection Method, Apparatus And System, HK30085572, granted on August 04, 2023. </span> 
+> > ##### <span style="color: #cccccc;"> - Patent 1: Stephen Jia Wang, Le Fang, Zhengtao Ma, Kun-Pyo Lee. Emotional interaction components, methods, devices, robots, media, and program products, CN120874890A, Oct. 31, 2025. </span>
+> > ##### <span style="color: #cccccc;"> - Patent 2: Stephen Jia Wang, Le Fang, Pangrui Xing. Psychological Stress Level Detection Method, Apparatus And System, WO2024222418A1 (Oct. 31, 2024), CN116343998A (Jun. 27, 2023), HK30085572 (Apr. 28, 2023). </span> 
 
 #### <span style="color: #cccccc;"> - Elderly Gait-Balance Monitoring System</span>
 
