@@ -6,9 +6,7 @@ My academic journey commenced with the pursuit of an M.Phil. degree in Computer 
 under the guidance of [Prof. Chuan Wu](https://i.cs.hku.hk/~cwu/index.html){:target="_blank" rel="noopener noreferrer"}. 
 Prior to that, I received my B.Eng. in Information Engineering from [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/){:target="_blank" rel="noopener noreferrer"} 
 in 2019, supervised by [Prof. Kejie Huang](https://person.zju.edu.cn/en/huangkejie){:target="_blank" rel="noopener noreferrer"}. 
-My research journey is fueled by a profound interest in realms, including Human-Computer Interaction (HCI), Artificial Intelligence (AI), 
-Data Mining, and the Internet of Things (IoT) for Healthcare. I am invigorated by the prospect of collaborating with fellow 
-researchers who share a fervor for pushing the boundaries of advanced technologies to serve practical applications. </span>
+My research explores the intersection of Multimodal Interaction Design, Human-Computer Interaction (HCI), AI, and Data Mining, with a focus on creating practical healthcare solutions through technologies like IoT. I am passionate about collaborating with others to push the boundaries of research and transform advanced technology into tangible, real-world impact. </span>
 
 #### :email: mailto:lefang@connect.hku.hk
 
