@@ -1,6 +1,6 @@
 ## 📢 <span style="color: #cccccc;">Latest News</span>
 <span style="color: #cccccc;"> - [Dec 2025] </span>
-One full paper (co-authored) accepted at at [IASDR 2025](https://cscw.acm.org/2025/), to be published in *Proceedings of IASDR 2025*.
+One full paper (co-authored) accepted at at [IASDR 2025](https://iasdr2025.org/), to be published in *Proceedings of IASDR 2025*.
 
 <span style="color: #cccccc;"> - [Oct 2025] </span>
 One full paper (co-authored) accepted at [CSCW 2025](https://cscw.acm.org/2025/), published in *Proceedings of the ACM on Human-Computer Interaction* [DOI](https://doi.org/10.1145/3710925)
