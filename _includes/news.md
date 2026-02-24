@@ -14,6 +14,7 @@ One full paper (co-authored) accepted at [IASDR 2025](https://iasdr2025.org/), t
 One full paper (co-authored) accepted at [CSCW 2025](https://cscw.acm.org/2025/), published in *Proceedings of the ACM on Human-Computer Interaction* [DOI](https://doi.org/10.1145/3710925)
 
 <span style="color: #cccccc;"> - [April 2025] </span>
+Two papers got accepted by [CHI 2025](https://chi2025.acm.org/).
   - One full paper (co-authored) accepted at [CHI 2025](https://chi2025.acm.org/), [DOI](https://doi.org/10.1145/3706598.3713571)
   - One late-breaking work accepted at [CHI 2025](https://chi2025.acm.org/), [DOI](https://doi.org/10.1145/3706599.3720217) 
 
