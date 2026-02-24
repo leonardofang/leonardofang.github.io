@@ -1,8 +1,8 @@
 ## 📢 <span style="color: #cccccc;">Latest News</span>
 <span style="color: #cccccc;"> - [Apr 2026] </span>
 Two papers got accepted by CHI 2026 [CHI 2026](https://chi2026.acm.org/).
-- One full paper (co-authored) accepted at [CHI 2026](https://chi2026.acm.org/), [DOI](https://doi.org/)
-- One late-breaking work accepted at [CHI 2026](https://chi2026.acm.org/), [DOI](https://doi.org/) 
+- One full paper (co-authored) accepted at [CHI 2026](https://chi2026.acm.org/), [DOI](https://doi.org/10.1145/3772318.3791643)
+- One late-breaking work accepted at [CHI 2026](https://chi2026.acm.org/), [DOI](https://doi.org/10.1145/3772363.3798439) 
 
 <span style="color: #cccccc;"> - [Jan 2026] </span>
 I joined the IIS lab as a visiting PhD student at the University of Tokyo, supervised by [Prof. Koji Yatani](https://iis-lab.org/member/koji-yatani/).
