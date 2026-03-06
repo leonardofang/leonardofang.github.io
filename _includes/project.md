@@ -16,7 +16,7 @@
 #### <span style="color: #cccccc;"> - Elderly Gait-Balance Monitoring System</span>
 
 #### <span style="color: #cccccc;"> - Exercise Video Recommendation for Parkinson's Disease (PD) Patients</span>
-> ##### <span style="color: #cccccc;"> “PDex” is an exercise recommendation app designed for Parkinson’s disease (PD) patients, which focuses on exercise recovery research for PD patients. Now we provide both iOS and Android versions. Detailed are included in the [Test Guideline](https://connecthkuhk-my.sharepoint.com/:w:/g/personal/lefang_connect_hku_hk/EcIWJqdl_FFIljRFZZDafyEBHTxkRg58_-Tz8TIkZtVrSw?rtime=vVCBMXGR20g){:target="_blank" rel="noopener noreferrer"}.</span> 
+> ##### <span style="color: #cccccc;"> “PDex” is an exercise recommendation app designed for Parkinson’s disease (PD) patients, which focuses on exercise recovery research for PD patients. Now we provide both iOS and Android versions. Detailed are included in the [Test Guideline](https://drive.google.com/file/d/1GSdmIWsY2d-zB_f1g0Dqk6mY8UpsCggX/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}.</span> 
 
 #### <span style="color: #cccccc;"> - A Nonintrusive Elderly Home Monitoring System</span>
 #### <span style="color: #cccccc;"> - Raw Food Recognition and Nutrition Analysis</span>
