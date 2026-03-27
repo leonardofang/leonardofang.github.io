@@ -1,0 +1,68 @@
+/* Social icon row (under name / logo in header) */
+.profile-social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem 0 1rem;
+  padding: 0;
+}
+
+.profile-social__link {
+  display: inline-flex;
+  color: #b0b0b0;
+  line-height: 0;
+  transition: color 0.2s ease, transform 0.15s ease;
+}
+
+.profile-social__link:hover {
+  color: #f0f0f0;
+  transform: translateY(-1px);
+}
+
+.profile-social__link svg {
+  width: 26px;
+  height: 26px;
+}
+
+/* Latest news under sidebar nav */
+.sidebar-news {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  max-width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  font-size: 0.85rem;
+  line-height: 1.45;
+  color: #c4c4c4;
+}
+
+.sidebar-news h2 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0 0 0.65rem;
+  padding: 0;
+  color: #e8e8e8;
+  border: none;
+}
+
+.sidebar-news a {
+  color: #9ecfff;
+}
+
+.sidebar-news a:hover {
+  color: #cfe6ff;
+}
+
+.sidebar-news ul {
+  margin: 0.35em 0 0.85em 1.1em;
+  padding: 0;
+}
+
+.sidebar-news p,
+.sidebar-news span {
+  margin: 0.25em 0;
+}
