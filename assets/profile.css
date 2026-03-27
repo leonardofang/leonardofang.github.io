@@ -17,22 +17,61 @@ body .wrapper > header {
   }
 }
 
-/* Social icon row (under name / logo in header) */
-.profile-social {
+/* Portrait + icons: same width as avatar (200px) so the row shares one vertical center axis */
+.profile-header-block {
+  --profile-avatar-size: 200px;
+  width: var(--profile-avatar-size);
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  justify-content: center;
-  align-items: center;
-  margin: 0.5rem 0 1rem;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.profile-header-block .round-logo {
+  display: block;
+  float: none;
+  margin: 0 auto;
+  width: var(--profile-avatar-size);
+  height: var(--profile-avatar-size);
+  max-width: 100%;
+  object-fit: cover;
+  box-sizing: border-box;
+}
+
+/* Override theme rules that can shift the avatar or icons */
+body .wrapper > header .profile-header-block img.round-logo {
+  float: none !important;
+}
+
+/* Four equal columns = same width as avatar row, icons centered in each cell */
+.profile-social {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.25rem;
+  width: 100%;
+  margin: 0.65rem 0 0;
   padding: 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-items: center;
 }
 
 .profile-social__link {
-  display: inline-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 2.75rem;
+  aspect-ratio: 1;
+  margin: 0;
   color: #b0b0b0;
   line-height: 0;
   transition: color 0.2s ease, transform 0.15s ease;
+  box-sizing: border-box;
 }
 
 .profile-social__link:hover {
@@ -40,10 +79,12 @@ body .wrapper > header {
   transform: translateY(-1px);
 }
 
+/* Identical SVG canvas for every icon */
 .profile-social__link svg {
-  width: 24px;
-  height: 24px;
+  width: 1.375rem;
+  height: 1.375rem;
   display: block;
+  flex-shrink: 0;
 }
 
 /* Latest news under sidebar nav */

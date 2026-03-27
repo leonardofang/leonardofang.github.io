@@ -59,12 +59,13 @@
          
         <link rel="stylesheet" href="{{ "/assets/logo.css" | relative_url }}">
         
+        <div class="profile-header-block">
         {% if site.logo %}
         <!--  <img src="{{site.logo | relative_url}}" alt="Logo" /> -->
         <img src="{{site.logo | relative_url}}" alt="Logo" class="round-logo" />
         {% endif %}
-
         {% include social-links.html %}
+        </div>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% if site.github.is_project_page %}
