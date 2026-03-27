@@ -24,7 +24,7 @@ My research explores the intersection of Multimodal Interaction Design, Human-Co
 <!--  <div style="display: flex; align-items: center; space-between;"> -->
 
   <div style="display: flex; align-items: center;">
-  <a href="https://www.polyu.edu.hk" target="_blank" style="display: flex; align-items: center;">
+  <a href="https://www.polyu.edu.hk" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
     <img src="assets/PolyU_Logo_630x630-removebg-preview.png" alt="The Hong Kong Polytechnic University" style="width: 75px; height: 78px; margin-right: 10px;">
     <span> The Hong Kong Polytechnic University (PolyU) <br> Doctor of Philosophy: Sep 2023 - Present </span>
   </a>
@@ -33,7 +33,7 @@ My research explores the intersection of Multimodal Interaction Design, Human-Co
   <div style="margin-bottom: 10px;"></div>
 
   <div style="display: flex; align-items: center;">
-  <a href="https://hku.hk" target="_blank" style="display: flex; align-items: center;">
+  <a href="https://hku.hk" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
     <img src="assets/hku-removebg-preview(1).png" alt="The Universoty of Hong Kong" style="width: 75px; height: 90px; margin-right: 10px;">
     <span> The Universoty of Hong Kong (HKU) <br> Master of Philosophy: Sep 2019 - Oct 2021 </span>
   </a>
@@ -42,14 +42,14 @@ My research explores the intersection of Multimodal Interaction Design, Human-Co
   <div style="margin-bottom: 10px;"></div>
 
   <div style="display: flex; align-items: center;">
-    <a href="https://nus.edu.sg" target="_blank" style="display: flex; align-items: center;"> 
+    <a href="https://nus.edu.sg" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;"> 
     <img src="assets/nus-removebg-preview.png" alt="National University of Singapore" style="width: 75px; height: 90px; margin-right: 10px;">
     <span> National University of Singapore (NUS) <br> Visiting Scholar (Computing): Nov 2018 - May 2019</span>
   </a>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <a href="https://www.zju.edu.cn/english/" target="_blank" style="display: flex; align-items: center;">
+  <a href="https://www.zju.edu.cn/english/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
     <img src="assets/zju-removebg-preview.png" alt="Zhejiang University" style="width: 75px; height: 90px; margin-right: 10px;">
     <span> Zhejiang University (ZJU) <br> Bachelor of Engineering: Sep 2015 - June 2019</span>
   </a>
