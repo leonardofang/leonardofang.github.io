@@ -10,6 +10,8 @@ My research explores the intersection of Multimodal Interaction Design, Human-Co
 
 #### :email: mailto:lefang@connect.hku.hk
 
+#### :mortar_board: [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ){:target="_blank" rel="noopener noreferrer"} · :briefcase: [LinkedIn](https://www.linkedin.com/in/le-fang-345213205/){:target="_blank" rel="noopener noreferrer"}
+
 {% include news.md %}
 
 {% include project.md %}
