@@ -14,5 +14,12 @@
   <li><a href="#edu">Education</a></li>
 </ul>
 
+<div class="sidebar-news">
+{% capture sidebar_news_raw %}
+{% include news.md %}
+{% endcapture %}
+{{ sidebar_news_raw | markdownify }}
+</div>
+
 <!-- Add vertical space -->
 <div class="spacer"></div>

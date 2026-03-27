@@ -8,12 +8,6 @@ Prior to that, I received my B.Eng. in Information Engineering from [Zhejiang Un
 in 2019, supervised by [Prof. Kejie Huang](https://person.zju.edu.cn/en/huangkejie){:target="_blank" rel="noopener noreferrer"}. 
 My research explores the intersection of Multimodal Interaction Design, Human-Computer Interaction (HCI), AI, and Data Mining, with a focus on creating practical healthcare solutions through technologies like IoT. I am passionate about collaborating with others to push the boundaries of research and transform advanced technology into tangible, real-world impact. </span>
 
-#### :email: mailto:lefang@connect.hku.hk
-
-#### :mortar_board: [Google Scholar](https://scholar.google.com/citations?user=AX-EmRgAAAAJ){:target="_blank" rel="noopener noreferrer"} · :briefcase: [LinkedIn](https://www.linkedin.com/in/le-fang-345213205/){:target="_blank" rel="noopener noreferrer"}
-
-{% include news.md %}
-
 {% include project.md %}
 
 {% include publication.md %}
