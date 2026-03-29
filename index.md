@@ -34,8 +34,8 @@ My research explores the intersection of Multimodal Interaction Design, Human-Co
 
   <div style="display: flex; align-items: center;">
   <a href="https://www.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
-    <img src="assets/utokyo-logo.svg" alt="The University of Tokyo" style="width: 118px; height: 28px; margin-right: 10px; object-fit: contain; object-position: left center;">
-    <span> The University of Tokyo (UTokyo) <br> Visiting PhD Student, IIS Lab (Prof. Koji Yatani): Jan 1, 2026 - Jun 30, 2026 </span>
+    <img src="assets/utokyo-mark.svg" alt="The University of Tokyo" style="width: 72px; height: 72px; margin-right: 10px; object-fit: contain;">
+    <span> The University of Tokyo <br> visiting PhD Student, Jan 2026 – Jun 2026 </span>
   </a>
   </div>
 
