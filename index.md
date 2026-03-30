@@ -1,4 +1,4 @@
-<span style="color: #cccccc;"> Hello, I am Le (Leo) Fang, a Ph.D. student specializing in Intelligent System and Interaction Design (School of Design) 
+<span style="color: #cccccc;"> Hello, I am Le (Leonardo or Leo) Fang, a Ph.D. student specializing in Intelligent System and Interaction Design (School of Design) 
 at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/){:target="_blank" rel="noopener noreferrer"}, 
 under the chief supervision of [Prof. Stephen Jia Wang](https://www.polyu.edu.hk/sd/people/academic-staff/wang-stephen-jia/){:target="_blank" rel="noopener noreferrer"} 
 and co-supervision of [Prof. Ying-Qing Xu, Tsinghua University](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm){:target="_blank" rel="noopener noreferrer"}. 
