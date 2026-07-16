@@ -1,24 +1,10 @@
-<hr>
-## <a id="rt"></a><span style="color: #ededeb;">Research Topics: </span>
-#### <span style="color: #cccccc;"> - AI, Data Science in Healthcare </span>
-#### <span style="color: #cccccc;"> - HCI in Affective Computing </span>
-#### <span style="color: #cccccc;"> - IoT in Smart Home </span>
-
-<hr>
-## <a id="pro"></a><span style="color: #ededeb;">Projects: </span>
-
-####  <span style="color: #cccccc;"> - HCI in Affective Computing (Ongoing :fire:)</span>
-> ##### <span style="color: #cccccc;"> Widespread emotional experiences are ubiquitous in our lives. Our research delves into the intricate realm of human factors in emotion detection, presenting an empirical investigation that employs diverse interactive techniques. We harness cutting-edge AI methodologies and sensor systems to advance the understanding of the affective computing field.</span> 
-> [Advanced Science News: Scientists test the link between tiny subconscious gestures and stress](https://www.advancedsciencenews.com/scientists-test-the-link-between-tiny-subconscious-gestures-and-stress/){:target="_blank" rel="noopener noreferrer"}
-> > ##### <span style="color: #cccccc;"> - Patent 1: Stephen Jia Wang, Le Fang, Zhengtao Ma, Kun-Pyo Lee. Emotional interaction components, methods, devices, robots, media, and program products, CN120874890A, Oct. 31, 2025. </span>
-> > ##### <span style="color: #cccccc;"> - Patent 2: Stephen Jia Wang, Le Fang, Pangrui Xing. Psychological Stress Level Detection Method, Apparatus And System, WO2024222418A1 (Oct. 31, 2024), CN116343998A (Jun. 27, 2023), HK30085572 (Apr. 28, 2023). </span> 
-
-#### <span style="color: #cccccc;"> - Elderly Gait-Balance Monitoring System</span>
-
-#### <span style="color: #cccccc;"> - Exercise Video Recommendation for Parkinson's Disease (PD) Patients</span>
-> ##### <span style="color: #cccccc;"> “PDex” is an exercise recommendation app designed for Parkinson’s disease (PD) patients, which focuses on exercise recovery research for PD patients. Now we provide both iOS and Android versions. Detailed are included in the [Test Guideline](https://drive.google.com/file/d/1GSdmIWsY2d-zB_f1g0Dqk6mY8UpsCggX/view?usp=sharing){:target="_blank" rel="noopener noreferrer"}.</span> 
-
-#### <span style="color: #cccccc;"> - A Nonintrusive Elderly Home Monitoring System</span>
-#### <span style="color: #cccccc;"> - Raw Food Recognition and Nutrition Analysis</span>
-
-<!--<iframe src="https://drive.google.com/file/d/1GxOvgnyPZg31IDn25UBranWkCGjlOheK/preview" allow="encrypted-media" allowfullscreen="true"></iframe> -->
+<section class="content-section" id="research">
+  <div class="section-heading"><p>Current directions</p><h2>Research</h2></div>
+  <div class="interest-row"><span>AI & Data Science for Healthcare</span><span>Affective Computing</span><span>IoT & Smart Homes</span></div>
+  <div class="project-grid">
+    <article class="project-card featured"><p class="project-status">Ongoing</p><h3>Human Factors in Affective Computing</h3><p>Empirical research on emotion detection using multimodal interaction techniques, AI methods, and sensor systems.</p><a href="https://www.advancedsciencenews.com/scientists-test-the-link-between-tiny-subconscious-gestures-and-stress/" target="_blank" rel="noopener">Read the feature →</a></article>
+    <article class="project-card"><h3>Elderly Gait-Balance Monitoring</h3><p>Human-centered sensing and analysis for assessing gait and balance in everyday environments.</p></article>
+    <article class="project-card"><h3>PDex</h3><p>An exercise-video recommendation application supporting rehabilitation for people with Parkinson’s disease.</p><a href="https://drive.google.com/file/d/1GSdmIWsY2d-zB_f1g0Dqk6mY8UpsCggX/view?usp=sharing" target="_blank" rel="noopener">Test guideline →</a></article>
+    <article class="project-card"><h3>Nonintrusive Home Monitoring</h3><p>Privacy-aware IoT monitoring designed to support older adults living independently.</p></article>
+  </div>
+</section>

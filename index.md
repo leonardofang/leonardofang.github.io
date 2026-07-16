@@ -1,12 +1,32 @@
-<span style="color: #cccccc;"> Hello, I am Le (Leonardo or Leo) Fang, a Ph.D. student specializing in Intelligent System and Interaction Design (School of Design) 
-at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/en/){:target="_blank" rel="noopener noreferrer"}, 
-under the chief supervision of [Prof. Stephen Jia Wang](https://www.polyu.edu.hk/sd/people/academic-staff/wang-stephen-jia/){:target="_blank" rel="noopener noreferrer"} 
-and co-supervision of [Prof. Ying-Qing Xu, Tsinghua University](https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm){:target="_blank" rel="noopener noreferrer"}. 
-My academic journey commenced with the pursuit of an M.Phil. degree in Computer Science from [The University of Hong Kong (HKU)](https://www.hku.hk/){:target="_blank" rel="noopener noreferrer"}, 
-under the guidance of [Prof. Chuan Wu](https://i.cs.hku.hk/~cwu/index.html){:target="_blank" rel="noopener noreferrer"}. 
-Prior to that, I received my B.Eng. in Information Engineering from [Zhejiang University (ZJU)](https://www.zju.edu.cn/english/){:target="_blank" rel="noopener noreferrer"} 
-in 2019, supervised by [Prof. Kejie Huang](https://person.zju.edu.cn/en/huangkejie){:target="_blank" rel="noopener noreferrer"}. 
-My research explores the intersection of Multimodal Interaction Design, Human-Computer Interaction (HCI), AI, and Data Mining, with a focus on creating practical healthcare solutions through technologies like IoT. I am passionate about collaborating with others to push the boundaries of research and transform advanced technology into tangible, real-world impact. </span>
+---
+layout: default
+title: Le Fang
+description: Ph.D. researcher in Human-Computer Interaction, affective computing, and AI for healthcare.
+---
+
+<section class="hero" id="about">
+  <div class="hero-copy">
+    <p class="eyebrow">Human–Computer Interaction · Affective Computing · AI for Healthcare</p>
+    <h1>Le <span>Fang</span></h1>
+    <p class="lead">I am a Ph.D. student in Intelligent System and Interaction Design at <a href="https://www.polyu.edu.hk/en/" target="_blank" rel="noopener">The Hong Kong Polytechnic University</a>, supervised by <a href="https://www.polyu.edu.hk/sd/people/academic-staff/wang-stephen-jia/" target="_blank" rel="noopener">Prof. Stephen Jia Wang</a> and co-supervised by <a href="https://thfl.tsinghua.edu.cn/en/yjdw/jzg/Central_Organization/Human_Computer_Interaction__and_User_Experience/Resercher/Yingqing_Xu.htm" target="_blank" rel="noopener">Prof. Ying-Qing Xu</a>.</p>
+    <p>My research lies at the intersection of multimodal interaction, HCI, AI, and data mining. I design practical healthcare technologies that translate computational advances into meaningful real-world impact.</p>
+    <div class="profile-links" aria-label="Contact and academic profiles">
+      <a href="mailto:lefang@connect.hku.hk">Email</a>
+      <a href="https://scholar.google.com/citations?user=AX-EmRgAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+      <a href="https://orcid.org/0000-0003-1860-4008" target="_blank" rel="noopener">ORCID</a>
+      <a href="https://www.linkedin.com/in/le-fang-345213205/" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </div>
+  <figure class="portrait">
+    <img src="{{ '/assets/leo.jpg' | relative_url }}" alt="Portrait of Le Fang">
+    <figcaption>Le (Leo) Fang</figcaption>
+  </figure>
+</section>
+
+<section class="content-section" id="news">
+  <div class="section-heading"><p>Updates</p><h2>News</h2></div>
+  {% include news.md %}
+</section>
 
 {% include project.md %}
 
@@ -14,54 +34,13 @@ My research explores the intersection of Multimodal Interaction Design, Human-Co
 
 {% include ta.md %}
 
-<hr>
-<style>
-  .paragraph {
-    margin-bottom: 5px; /* Adjust the height of the space here */
-  }
-</style>
-## <a id="edu"></a> <span style="color: #ededeb;">Education: </span>
-<!--  <div style="display: flex; align-items: center; space-between;"> -->
-
-  <div style="display: flex; align-items: center;">
-  <a href="https://www.polyu.edu.hk" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
-    <img src="assets/PolyU_Logo_630x630-removebg-preview.png" alt="The Hong Kong Polytechnic University" style="width: 75px; height: 78px; margin-right: 10px;">
-    <span> The Hong Kong Polytechnic University (PolyU) <br> Doctor of Philosophy: Sep 2023 - Present </span>
-  </a>
+<section class="content-section" id="education">
+  <div class="section-heading"><p>Background</p><h2>Education & visits</h2></div>
+  <div class="timeline">
+    <article><img src="assets/PolyU_Logo_630x630-removebg-preview.png" alt="PolyU logo"><div><h3>The Hong Kong Polytechnic University</h3><p>Ph.D. in Intelligent System and Interaction Design · 2023–Present</p></div></article>
+    <article><img src="assets/utokyo-mark.svg" alt="University of Tokyo logo"><div><h3>The University of Tokyo</h3><p>Visiting Ph.D. Student · Jan–Jun 2026</p></div></article>
+    <article><img src="assets/hku-removebg-preview(1).png" alt="HKU logo"><div><h3>The University of Hong Kong</h3><p>M.Phil. in Computer Science · 2019–2021</p></div></article>
+    <article><img src="assets/nus-removebg-preview.png" alt="NUS logo"><div><h3>National University of Singapore</h3><p>Visiting Scholar in Computing · 2018–2019</p></div></article>
+    <article><img src="assets/zju-removebg-preview.png" alt="Zhejiang University logo"><div><h3>Zhejiang University</h3><p>B.Eng. in Information Engineering · 2015–2019</p></div></article>
   </div>
-
-  <div style="margin-bottom: 10px;"></div>
-
-  <div style="display: flex; align-items: center;">
-  <a href="https://www.u-tokyo.ac.jp/en/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
-    <img src="assets/utokyo-mark.svg" alt="The University of Tokyo" style="width: 72px; height: 72px; margin-right: 10px; object-fit: contain;">
-    <span> The University of Tokyo <br> visiting PhD Student, Jan 2026 – Jun 2026 </span>
-  </a>
-  </div>
-
-  <div style="margin-bottom: 10px;"></div>
-
-  <div style="display: flex; align-items: center;">
-  <a href="https://hku.hk" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
-    <img src="assets/hku-removebg-preview(1).png" alt="The Universoty of Hong Kong" style="width: 75px; height: 90px; margin-right: 10px;">
-    <span> The Universoty of Hong Kong (HKU) <br> Master of Philosophy: Sep 2019 - Oct 2021 </span>
-  </a>
-  </div>
-
-  <div style="margin-bottom: 10px;"></div>
-
-  <div style="display: flex; align-items: center;">
-    <a href="https://nus.edu.sg" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;"> 
-    <img src="assets/nus-removebg-preview.png" alt="National University of Singapore" style="width: 75px; height: 90px; margin-right: 10px;">
-    <span> National University of Singapore (NUS) <br> Visiting Scholar (Computing): Nov 2018 - May 2019</span>
-  </a>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <a href="https://www.zju.edu.cn/english/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center;">
-    <img src="assets/zju-removebg-preview.png" alt="Zhejiang University" style="width: 75px; height: 90px; margin-right: 10px;">
-    <span> Zhejiang University (ZJU) <br> Bachelor of Engineering: Sep 2015 - June 2019</span>
-  </a>
-</div>
-
-
+</section>
