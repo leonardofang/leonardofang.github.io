@@ -49,16 +49,6 @@
         nav.classList.remove('is-open');
         menuButton.setAttribute('aria-expanded', 'false');
       }));
-      const portraitButton = document.querySelector('.portrait-toggle');
-      if (portraitButton) {
-        portraitButton.addEventListener('click', () => {
-          const portrait = portraitButton.querySelector('img');
-          const alternate = portraitButton.getAttribute('aria-pressed') !== 'true';
-          portrait.src = alternate ? portrait.dataset.alternateSrc : portrait.dataset.primarySrc;
-          portraitButton.setAttribute('aria-pressed', String(alternate));
-          portraitButton.setAttribute('aria-label', alternate ? 'Show primary portrait' : 'Show alternate portrait');
-        });
-      }
     </script>
   </body>
 </html>

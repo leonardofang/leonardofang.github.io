@@ -18,14 +18,11 @@ description: Ph.D. researcher in Human-Computer Interaction, affective computing
     </div>
   </div>
   <figure class="portrait">
-    <button class="portrait-toggle" type="button" aria-label="Show alternate portrait" aria-pressed="false">
-      <img
-        src="{{ '/assets/leo.jpg' | relative_url }}"
-        data-primary-src="{{ '/assets/leo.jpg' | relative_url }}"
-        data-alternate-src="{{ '/assets/life-new.jpg' | relative_url }}"
-        alt="Portrait of Le Fang">
-    </button>
-    <figcaption>Le (Leo) Fang · click photo to switch</figcaption>
+    <div class="portrait-images">
+      <img class="portrait-casual" src="{{ '/assets/leo.jpg' | relative_url }}" alt="Portrait of Le Fang">
+      <img class="portrait-formal" src="{{ '/assets/life-new.jpg' | relative_url }}" alt="" aria-hidden="true">
+    </div>
+    <figcaption>Le (Leo) Fang</figcaption>
   </figure>
 </section>
 
